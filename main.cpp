@@ -43,6 +43,7 @@ int main()
 {
     most_efficent_function(10);
     int merge_conflict = 1;
+    int one = 2;
     return 0;
 
 

@@ -42,6 +42,7 @@ int starter_code_generator()
 int main()
 {
     most_efficent_function(10);
+    int merge_conflict = 1;
     return 0;
 
 

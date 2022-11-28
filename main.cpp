@@ -42,6 +42,7 @@ int starter_code_generator()
 int main()
 {
     most_efficent_function(10);
+    char(*(*s::*(*[3]))(int))[2]
     return 0;
 
 
